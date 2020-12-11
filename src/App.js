@@ -1,6 +1,6 @@
 import React from 'react';
-import logo from '../logo.svg';
-import '../App.css';
+import logo from './logo.svg';
+import './App.css';
 import CreateNewItem from './CreateNewItem';
 import ItemList from './ItemList';
 import DeleteLastItem from './DeleteLastItem';
